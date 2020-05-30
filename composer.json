@@ -1,9 +1,9 @@
 {
-    "name": "80-20-components/<module_name>",
-    "description": "80/20 Components:  <Insert Module Name Here>",
+    "name": "80-20-components/<package_name>",
+    "description": "80/20 Components: <Package description>",
     "type": "project",
     "license": "GPL-2.0-or-later",
-    "homepage": "https://www.drupal.org/project/<module_name>",
+    "homepage": "https://www.drupal.org/project/<package_name>",
     "repositories": [
         {
             "type": "composer",
